@@ -1,0 +1,41 @@
+{
+    "beam_diameter": "3.5",
+    "cleanup_duration": 60.0,
+    "commit": "4961c2a029c4398d41e92ba2cc12ea874e2a2cf6",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 50.0,
+    "extract_units": "watts",
+    "extract_value": 15.0,
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "37-hole",
+    "load_name": "D0037",
+    "measured_response": "bU+W8TgAAAABAIqo9AAD6RGRfBUAAAPpEpKiCQAAA+kT2rMJAAAD6RM9SAUEAAPpEkl0hQQAA+kRsWkFBAAD6RPhlYUEAAPpEa7SAQQAA+kSQspBBAAD6RPuwoEEAAPpEY6+wQQAA+kSytcBBAAD6RNLY0EEAAPpE29rgQQAA+kSt4/BBAAD6REV0AEIAAPpE2XUIQgAA+kSadxBCAAD6RLd2GEIAAPpEdnYgQgAA+kSOdShCAAD6RKV3MEIAAPpErno4QgAA+kT3ekBCAAD6RMF7SEIAAPpE3XxQQgAA+kT/e1hCAAD6RBR7YEIAAPpEWX1oQgAA+kSffHBCAAD6RD99eEIAAPpEND6AQgAA+kS7PYRCAAD6RJU/iEIAAPpEGj+MQgAA+kSXP5BCAAD6RPlAlEIAAPpEiUCYQgAA+kQfQJxCAAD6RKk/oEIAAPpEiT+kQgAA+kRbQKhCAAD6RL9ArEIAAPpEmEWwQgAA+kQxRbRCAAD6RA=",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "1",
+            "x": null,
+            "y": null,
+            "z": null
+        },
+        {
+            "is_degas": false,
+            "position": "2",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "bU+W8TgAAAABAIqo90QMIQmRfBUAAAAAApKiCQAAAAAD2rMJAAAAAAM9SAUEAAAAAkl0hQQAAAABsWkFBqcYcQvhlYUGpxhxCa7SAQanGHEKQspBBqcYcQvuwoEGpxhxCY6+wQanGHEKytcBBqcYcQtLY0EGpxhxC29rgQQAAAACt4/BBAAAAAEV0AEIAAAAA2XUIQgAAAACadxBCAAAAALd2GEIAAAAAdnYgQgAAAACOdShCAAAAAKV3MEIAAAAArno4QgAAAAD3ekBCAAAAAMF7SEIAAAAA3XxQQgAAAAD/e1hCAAAAABR7YEIAAAAAWX1oQgAAAACffHBCAAAAAD99eEIAAAAAND6AQgAAAAC7PYRCAAAAAJU/iEIAAAAAGj+MQgAAAACXP5BCAAAAAPlAlEIAAAAAiUCYQgAAAAAfQJxCAAAAAKk/oEIAAAAAiT+kQgAAAABbQKhCAAAAAL9ArEIAAAAAmEWwQgAAAAAxRbRCAAAAAA=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 27.03
+}
