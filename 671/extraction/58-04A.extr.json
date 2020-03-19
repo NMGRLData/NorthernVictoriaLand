@@ -1,0 +1,41 @@
+{
+    "beam_diameter": "3.5",
+    "cleanup_duration": 60.0,
+    "commit": "4961c2a029c4398d41e92ba2cc12ea874e2a2cf6",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 50.0,
+    "extract_units": "watts",
+    "extract_value": 0.7,
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "37-hole",
+    "load_name": "D0037",
+    "measured_response": "bd+W8TgAAAADgpf89AAD6REEUCEAAAPpE9DaEQAAA+kT1ZsRAAAD6RFBlAkEAAPpEaHsiQQAA+kS+f0JBAAD6RByWYkEAAPpEJFmBQQAA+kSGW5FBAAD6RBBloUEAAPpESmyxQQAA+kR5bMFBAAD6RA5r0UEAAPpEMWrhQQAA+kSwffFBAAD6RKjGAEIAAPpEwMwIQgAA+kR/0BBCAAD6RB3QGEIAAPpER9YgQgAA+kSM1ihCAAD6RJrbMEIAAPpE5+Y4QgAA+kQQ7EBCAAD6RAjySEIAAPpEB/JQQgAA+kTZ+FhCAAD6RKn8YEIAAPpE3wNpQgAA+kRBBHFCAAD6RAoEeUIAAPpEjoGAQgAA+kQyhYRCAAD6RGOLiEIAAPpE6IuMQgAA+kS3jpBCAAD6RFSRlEIAAPpEV5KYQgAA+kQEkpxCAAD6RK+ToEIAAPpEQZWkQgAA+kQKlahCAAD6RJCYrEIAAPpE6JqwQgAA+kRonLRCAAD6RDScuEIAAPpE8qG8QgAA+kTQo8BCAAD6RE+kxEIAAPpEUKTIQgAA+kRnpcxCAAD6RFml0EIAAPpEKKXUQgAA+kS9pNhCAAD6RGSk3EIAAPpELKXgQgAA+kSwqORCAAD6RDuq6EIAAPpEjKrsQgAA+kSXrPBCAAD6RICt9EIAAPpEi7D4QgAA+kQ",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "7",
+            "x": null,
+            "y": null,
+            "z": null
+        },
+        {
+            "is_degas": false,
+            "position": "8",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "bd+W8TgAAAADgpf89qcYcQkEUCEAAAAAA9DaEQAAAAAD1ZsRAAAAAAFBlAkEAAAAAaHsiQbk3j0G+f0JBuTePQRyWYkG5N49BJFmBQbk3j0GGW5FBuTePQRBloUG5N49BSmyxQbk3j0F5bMFBuTePQQ5r0UG5N49BMWrhQbk3j0GwffFBuTePQajGAEK5N49BwMwIQrk3j0F/0BBCuTePQR3QGEK5N49BR9YgQrk3j0GM1ihCuTePQZrbMEK5N49B5+Y4Qrk3j0EQ7EBCuTePQQjySEK5N49BB/JQQrk3j0HZ+FhCuTePQan8YEK5N49B3wNpQrk3j0FBBHFCuTePQQoEeUK5N49BjoGAQrk3j0EyhYRCuTePQWOLiEK5N49B6IuMQrk3j0G3jpBCuTePQVSRlEK5N49BV5KYQrk3j0EEkpxCuTePQa+ToEK5N49BQZWkQrk3j0EKlahCuTePQZCYrEK5N49B6JqwQrk3j0FonLRCuTePQTScuEK5N49B8qG8Qrk3j0HQo8BCuTePQU+kxEK5N49BUKTIQrk3j0FnpcxCuTePQVml0EK5N49BKKXUQrk3j0G9pNhCuTePQWSk3EK5N49BLKXgQrk3j0GwqORCuTePQTuq6EK5N49BjKrsQrk3j0GXrPBCuTePQYCt9EK5N49Bi7D4Qrk3j0E",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 20.39
+}
